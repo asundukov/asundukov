@@ -18,7 +18,7 @@ The most favorite is Kotlin - I think it as amazing thing to build clean-code be
  * [Meme generate bot manager](https://github.com/asundukov/meme-gen-mange-bot) - pruduction at https://t.me/MemeBuilderBot
 
 
-##### ⚡ Actually, I have some ideas/mindы about what to do next, but these previous have too much issues to go next. Ok, I just leave it here
+##### ⚡ Actually, I have some ideas/minds about what to do next, but these previous have too much issues to go next. Ok, I just leave it here
  * [Some test-build service, possible to move it as telegram-bot-based questionnaire](https://t.me/testfor.us)
  * Multiplayer web-based game where players control one dot and need to build some pictures together and win points
  * Multiplayer bot-based game with player-creatied content and often player-to-player interactions

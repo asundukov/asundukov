@@ -28,7 +28,8 @@ The most favorite is Kotlin - I think it as amazing thing to build clean-code be
 
 
 #### :handshake: Socials: 
- * https://t.me/Hcd5opza9bdcjid26fg
+ * https://t.me/developers_mind
+ * https://t.me/Hcd5opza9bdcjid26fg 
  * https://twitter.com/once_dev
  * https://www.linkedin.com/in/andrey-sundukov-4639b281/
  * https://www.facebook.com/andrey.sundukov.52

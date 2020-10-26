@@ -3,10 +3,10 @@
 🙂 I'm kotlin-addicted (last times) programmer and I like do some funny new things. And I'm ready to collaborate for some fun things.
 
 #### 🤓 Favorite languages:
- * PHP
- * Java
  * Kotlin
+ * Java
  * SQL
+ * PHP 
  
 The most favorite is Kotlin - I think it as amazing thing to build clean-code beatiful-orginized projects.
 

@@ -13,6 +13,7 @@ The most favorite is Kotlin - I think it as amazing thing to build clean-code be
 #### 🔭 I’m currently working on:
 
 ##### :bullettrain_front:	Active:
+ * [Figure-it game](https://github.com/figure-it/figure-it)
  * [Kotlin telegram bot framework](https://github.com/asundukov/kotlin-telegram-framework)
  * [Meme generate bot](https://github.com/asundukov/meme-gen-bot) - production at https://t.me/MemeGeneBot
  * [Meme generate bot manager](https://github.com/asundukov/meme-gen-mange-bot) - pruduction at https://t.me/MemeBuilderBot
